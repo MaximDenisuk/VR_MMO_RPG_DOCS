@@ -1,0 +1,3 @@
+This repo is submodule of https://github.com/MaximDenisuk/VR_MMO_RPG
+
+You should have the same branches for both repos VR_MMO_RPG and VR_MMO_RPG_DOCS
